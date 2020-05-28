@@ -17,7 +17,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://rich2000.shopify.com"
+            href="https://contax-care.myshopify.com"
             target="_blank"
             rel="noopener noreferrer"
           >
